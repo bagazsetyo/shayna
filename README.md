@@ -1,4 +1,5 @@
 # shayna
+Frontend marketplace for shayna backend
 
 ## Project setup
 ```
